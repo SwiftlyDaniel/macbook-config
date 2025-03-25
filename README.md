@@ -61,6 +61,7 @@
 - One Thing
 - OrbStack
 - Postman
+- Raycast
 - Rectangle
 - SF Symbols
 - Sequel Ace
