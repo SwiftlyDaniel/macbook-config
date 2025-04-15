@@ -7,7 +7,9 @@ alias jf='dev && git standup -s -d 7'
 alias heicToJpg='sips -s format jpeg input.heic --out output.jpg'
 alias start='orb start && ds && cd wp-content/themes/$(ls wp-content/themes | head -n 1) && pw'
 alias t="open $1 -a \"Trae\""
-alias c="open $1 -a \"Visual Studio Code - Insiders\""
+alias c="open $1 -a \"Cursor\""
+alias st='open -a Sourcetree'
+alias mcp='npx @agentdeskai/browser-tools-server@1.2.0'
 
 # Git
 alias g='git'
@@ -24,8 +26,14 @@ alias nrb='npm run build'
 
 # PNPM
 alias pn='pnpm'
+alias pi='pn install'
 alias pw='pn watch'
+alias pd='pn dev'
 alias pb='pn build'
+alias pnu='pn up --latest'
+alias pnst='pn start'
+alias pnf='pn format'
+alias pns='pn storybook'
 
 # DDEV
 alias updateDDEV='brew update && brew upgrade ddev'
@@ -35,6 +43,7 @@ alias dr='ddev restart'
 alias dcu='ddev composer update'
 alias dci='ddev composer install'
 alias dsql='ddev sequelace'
+alias dl='ddev launch'
 alias importdb='ddev import-db --file=db_backups/db.sql.gz'
 alias exportdb='ddev export-db --file=db_backups/db.sql.gz'
 alias dnewadmin='ddev wp user create dani dani@local.local --role=administrator --user_pass=dani --path=web && ddev wp user update dani --admin_color=modern --path=web && britifyWP && ddev wp user update dani --locale=en_GB --path=web'

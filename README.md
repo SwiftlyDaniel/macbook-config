@@ -38,6 +38,7 @@
 - eloston-chromium
 - hiddenbar
 - mos
+- autokbisw
 
 ## Apps
 - 1Password
@@ -52,7 +53,6 @@
 - IPTV Stream Player
 - Logitech G HUB
 - Maccy
-- Mechvibes
 - Microsoft Edge
 - Microsoft Teams
 - Nextcloud
@@ -70,9 +70,11 @@
 - Texts
 - Trae
 - UTM
-- Visual Studio Code
-- Warp
+- Cursor
+- WarpPreview
 - Xcode
 - Zed
 - Zen
 - Zeplin
+- Arc
+- HTTPie
