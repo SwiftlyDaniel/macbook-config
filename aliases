@@ -8,7 +8,6 @@ alias heicToJpg='sips -s format jpeg input.heic --out output.jpg'
 alias start='orb start && ds && cd wp-content/themes/$(ls wp-content/themes | head -n 1) && pw'
 alias t="open $1 -a \"Trae\""
 alias wind="open $1 -a \"Windsurf\""
-alias st='open -a Sourcetree'
 
 # Git
 alias gm='git config pull.rebase false'
