@@ -38,7 +38,6 @@
 - sequel-ace
 - shottr
 - alcove
-- logitech-g-hub
 - the-unarchiver
 - trae
 - utm
