@@ -25,3 +25,11 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 ## Completion scripts setup. Remove the following line to uninstall
 [[ -f /Users/dani/.dart-cli-completion/zsh-config.zsh ]] && . /Users/dani/.dart-cli-completion/zsh-config.zsh || true
 ## [/Completion]
+
+
+# Added by Windsurf
+export PATH="/Users/dani/.codeium/windsurf/bin:$PATH"
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/Users/dani/.lmstudio/bin"
+# End of LM Studio CLI section
