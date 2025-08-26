@@ -44,7 +44,7 @@
 - windsurf
 - zed
 - zen
-- warp
+- ghostty
 - domt4/autoupdate
 
 ## App Store
@@ -61,3 +61,15 @@
 - Mapswitch
 - Vinegar
 - Wipr
+
+## Ghostty config
+```bash
+font-family = SF Mono
+font-size = 14
+window-padding-x = 8
+window-padding-y = 8
+macos-icon = xray
+auto-update = download
+background-opacity = 0.9
+background-blur = true
+```
