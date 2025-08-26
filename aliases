@@ -33,7 +33,7 @@ alias pns='pn storybook'
 
 # DDEV
 alias updateDDEV='brew update && brew upgrade ddev'
-alias ddevRename='cd ~/ddev-rename.sh'
+alias ddevRename='~/ddev-rename.sh'
 alias ds='ddev start'
 alias dr='ddev restart'
 alias dcu='ddev composer update'
