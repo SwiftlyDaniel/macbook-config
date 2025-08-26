@@ -46,6 +46,7 @@
 - zed
 - zen
 - warp
+- domt4/autoupdate
 
 ## App Store
 
