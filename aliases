@@ -7,22 +7,17 @@ alias jf='dev && git standup -s -d 7'
 alias heicToJpg='sips -s format jpeg input.heic --out output.jpg'
 alias start='orb start && ds && cd wp-content/themes/$(ls wp-content/themes | head -n 1) && pw'
 alias t="open $1 -a \"Trae\""
-alias c="open $1 -a \"Cursor\""
+alias wind="open $1 -a \"Windsurf\""
 alias st='open -a Sourcetree'
-alias mcp='npx @agentdeskai/browser-tools-server@1.2.0'
 
 # Git
-alias g='git'
-alias gs='git status'
-alias gr='git remote -v'
 alias gm='git config pull.rebase false'
 
 # Flutter
 alias flformat='dart format lib/* -l 1000'
 
-# NPM
-alias nrw='npm run watch'
-alias nrb='npm run build'
+# Next.js
+alias nextUp='pnpm dlx @next/codemod@latest upgrade latest'
 
 # PNPM
 alias pn='pnpm'
@@ -31,8 +26,10 @@ alias pw='pn watch'
 alias pd='pn dev'
 alias pb='pn build'
 alias pnu='pn up --latest'
+alias pnui='pn upgrade -interactive'
 alias pnst='pn start'
 alias pnf='pn format'
+alias pnl='pn lint'
 alias pns='pn storybook'
 
 # DDEV
