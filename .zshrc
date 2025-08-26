@@ -20,6 +20,8 @@ eval $(thefuck --alias fuck)
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
+# Homebrew
+export HOMEBREW_INSTALL_BADGE="✅"
 
 ## [Completion]
 ## Completion scripts setup. Remove the following line to uninstall
