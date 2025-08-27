@@ -64,12 +64,15 @@
 
 ## Ghostty config
 ```bash
+macos-titlebar-style = tabs
+theme = UltraDark
 font-family = SF Mono
 font-size = 14
 window-padding-x = 8
 window-padding-y = 8
-macos-icon = xray
-auto-update = download
 background-opacity = 0.9
 background-blur = true
+macos-icon = xray
+auto-update = download
+working-directory = /Users/dani/Developer
 ```
