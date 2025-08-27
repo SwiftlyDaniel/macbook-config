@@ -35,3 +35,6 @@ export PATH="/Users/dani/.codeium/windsurf/bin:$PATH"
 # Added by LM Studio CLI (lms)
 export PATH="$PATH:/Users/dani/.lmstudio/bin"
 # End of LM Studio CLI section
+
+# Starship
+eval "$(starship init zsh)"
