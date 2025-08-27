@@ -39,7 +39,6 @@
 - shottr
 - alcove
 - the-unarchiver
-- trae
 - utm
 - windsurf
 - zed
