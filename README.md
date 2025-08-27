@@ -45,6 +45,8 @@
 - zed
 - zen
 - ghostty
+- font-hack-nerd-font
+- starship
 - domt4/autoupdate
 
 ## App Store
