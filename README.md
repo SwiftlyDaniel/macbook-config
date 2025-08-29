@@ -7,9 +7,10 @@
 4. Download the files in the repo to the home directory
 5. Install Homebrew
 6. Install Brew packages
-7. Generate SSH keys
-8. Add SSH keys to GitHub
-9. Modify the Dock and widgets
+7. Import Raycast config from iCloud
+8. Generate SSH keys
+9. Add SSH keys to GitHub
+10. Modify the Dock and widgets
 
 ## Brew Packages
 - apple-music-discord-rpc
