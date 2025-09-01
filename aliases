@@ -9,6 +9,7 @@ alias start='orb start && ds && cd wp-content/themes/$(ls wp-content/themes | he
 alias t="open $1 -a \"Trae\""
 alias wind="open $1 -a \"Windsurf\""
 alias ff='fastfetch'
+alias lh='pnpm dlx unlighthouse --site'
 
 # Git
 alias gm='git config pull.rebase false'
