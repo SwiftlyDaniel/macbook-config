@@ -25,7 +25,6 @@
 - flutter
 - bun
 - ungoogled-chromium
-- hiddenbar
 - autokbisw
 - fastfetch
 - discord
