@@ -48,6 +48,7 @@
 - starship
 - shfmt
 - beeper
+- lazygit
 - domt4/autoupdate
 
 ## App Store
