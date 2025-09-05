@@ -10,9 +10,16 @@ alias t="open $1 -a \"Trae\""
 alias wind="open $1 -a \"Windsurf\""
 alias ff='fastfetch'
 alias lh='pnpm dlx unlighthouse --site'
+alias lg='lazygit'
 
 # Git
 alias gm='git config pull.rebase false'
+alias gwtpr='git worktree prune'
+alias gwtl='git worktree list'
+alias gwtadd='git worktree add'
+alias gwtrm='git worktree remove'
+alias gwtmv='git worktree move'
+alias gwtp='git worktree prune'
 
 # Flutter
 alias flformat='dart format lib/* -l 1000'
