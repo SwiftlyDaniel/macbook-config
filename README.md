@@ -47,6 +47,7 @@
 - font-hack-nerd-font
 - starship
 - shfmt
+- beeper
 - domt4/autoupdate
 
 ## App Store
