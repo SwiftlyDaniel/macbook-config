@@ -46,6 +46,7 @@
 - ghostty
 - font-hack-nerd-font
 - starship
+- shfmt
 - domt4/autoupdate
 
 ## App Store
