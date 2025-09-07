@@ -2,6 +2,8 @@ if [ -f ~/aliases ]; then
     . ~/aliases
 fi
 
+source $HOMEBREW_PREFIX/share/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+
 # pnpm
 export PNPM_HOME="/Users/dani/Library/pnpm"
 case ":$PATH:" in
