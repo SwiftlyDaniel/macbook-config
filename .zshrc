@@ -36,5 +36,8 @@ export PATH="/Users/dani/.codeium/windsurf/bin:$PATH"
 export PATH="$PATH:/Users/dani/.lmstudio/bin"
 # End of LM Studio CLI section
 
+# Zoxide
+eval "$(zoxide init zsh)"
+
 # Starship
 eval "$(starship init zsh)"
