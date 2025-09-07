@@ -49,6 +49,19 @@
 - shfmt
 - beeper
 - lazygit
+- fd
+- ripgrep
+- yazi
+- ffmpeg
+- sevenzip
+- jq
+- poppler
+- fzf
+- zoxide
+- resvg
+- imagemagick
+- font-symbols-only-nerd-font
+- bat
 - domt4/autoupdate
 
 ## App Store
