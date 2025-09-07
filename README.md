@@ -62,6 +62,7 @@
 - imagemagick
 - font-symbols-only-nerd-font
 - bat
+- zsh-autocomplete
 - domt4/autoupdate
 
 ## App Store
