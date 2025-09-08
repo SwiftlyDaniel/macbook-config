@@ -11,6 +11,7 @@ alias wind="open $1 -a \"Windsurf\""
 alias ff='fastfetch'
 alias lh='pnpm dlx unlighthouse --site'
 alias lg='lazygit'
+alias cd="z"
 
 # Git
 alias gm='git config pull.rebase false'
