@@ -13,6 +13,7 @@ alias lh='pnpm dlx unlighthouse --site'
 alias lg='lazygit'
 alias cd='z'
 alias cat='bat'
+alias ls='yazi'
 
 # Git
 alias gm='git config pull.rebase false'
