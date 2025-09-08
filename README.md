@@ -63,6 +63,7 @@
 - font-symbols-only-nerd-font
 - bat
 - zsh-autocomplete
+- btop
 - domt4/autoupdate
 
 ## App Store
